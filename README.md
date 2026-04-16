@@ -1,10 +1,10 @@
-# Smart Disaster Recovery Manage System
+# Intelligent Disaster Recovery Manage System
 
 > **The Last Line of Defense for Business Continuity — An Automated, Visualized, and Intelligent Disaster Recovery Operations Platform**
 
 ## 📖 Project Introduction
 
-**Smart Disaster Recovery Manage System** is an enterprise-grade disaster recovery operations management product designed for data centers and cloud environments. By leveraging **visual workflow orchestration, automated execution, real-time monitoring, and AI-assisted decision-making**, it comprehensively addresses the core pain points of traditional disaster recovery switching, including complex processes, heavy reliance on manual operations, difficult verification, and excessively long RTOs.
+**Intelligent Disaster Recovery Manage System** is an enterprise-grade disaster recovery operations management product designed for data centers and cloud environments. By leveraging **visual workflow orchestration, automated execution, real-time monitoring, and AI-assisted decision-making**, it comprehensively addresses the core pain points of traditional disaster recovery switching, including complex processes, heavy reliance on manual operations, difficult verification, and excessively long RTOs.
 
 This platform strictly adheres to international and domestic disaster recovery and business continuity management standards (SHARE78, ISO 22301, GB/T 20988). It provides enterprises with full lifecycle management capabilities, from DR construction and plan preparation to emergency drills and actual failover, ensuring core business systems can be restored **within minutes** in the event of a disaster (RTO ≤ 30 minutes, RPO ≤ 5 minutes).
 
@@ -43,7 +43,7 @@ This platform strictly adheres to international and domestic disaster recovery a
 <tr>
 <th>Dimension</th>
 <th>Traditional Manual Operation</th>
-<th>Smart Disaster Recovery Manage System</th>
+<th>Intelligent Disaster Recovery Manage System</th>
 </tr>
 <tr>
 <td>Failover Duration (RTO)</td>
