@@ -82,3 +82,10 @@ This platform strictly adheres to international and domestic disaster recovery a
 
 - **Use Case 3: Emergency Incident Response**  
   Leverage AI to predict risks and pre-warm DR resources, enabling decision-makers to initiate emergency failover processes instantly.
+
+## 📞 Contact
+- **Project Website:** https://www.ylink.com.cn/
+
+- **Issue Tracker:** GitHub Issues
+
+- **Mailing List:** ylink_pd@yykj.com 
